@@ -76,4 +76,6 @@ def solve(board):
 
 	return False
 
+print_board(board)
 solve(board)
+print_board(board)
